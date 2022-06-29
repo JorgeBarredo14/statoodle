@@ -1,4 +1,4 @@
-![alt text](https://github.com/JorgeBarredo14/statoodle/statoodle.png?raw=true)
+![alt text](https://github.com/JorgeBarredo14/statoodle/Statoodle.png?raw=true)
 
 Hello!
 This is the repository for Statoodle - The external Learning Analytics and statistics tool for Moodle!
