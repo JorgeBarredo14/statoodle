@@ -1,5 +1,7 @@
+![alt text](https://github.com/JorgeBarredo14/statoodle/statoodle.png?raw=true)
+
 Hello!
-This is the repository for Statoodle - The external Learning Analytics and statistics tool for Moodle
+This is the repository for Statoodle - The external Learning Analytics and statistics tool for Moodle!
 
 The process for creating your own executable in Windows 10 is as follows!!
 
